@@ -6,3 +6,18 @@
 ###### Heading 6
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+#PYTHON
+```py
+print("Hello World")
+```
+
+#C++
+```c++
+#include "iostream"
+int main(){
+    printf("Hello World!!");
+    return 0;
+}
+```
