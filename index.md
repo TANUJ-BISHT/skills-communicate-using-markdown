@@ -21,3 +21,8 @@ int main(){
     return 0;
 }
 ```
+
+- [x] Turn on GitHub Pages
+- [x] This is a test Checkbox.
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
